@@ -15,7 +15,7 @@
       "name": "Context",
       "symbol": "CTXT",
       "decimals": 9,
-      "logoURI": "https://github.com/ContextFinance/interface/blob/main/public/favicon.png"
+      "logoURI": "https://raw.githubusercontent.com/ContextFinance/interface/main/public/favicon.png"
     },
     {
       "address": "0x60781C2586D68229fde47564546784ab3fACA982",
